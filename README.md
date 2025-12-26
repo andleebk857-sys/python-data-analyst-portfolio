@@ -19,7 +19,7 @@ The goal is to understand salary distribution, department-wise averages, and ide
 # Average Salary per Department
 The chart below shows how average salaries vary across different departments.
 
-![Average Salary per Department](Avg_salary_per_Department.png)
+![Average Salary per Department](Avg_salary_Department.png)
 
 # Files Included
 * employees.csv → Raw employee data
