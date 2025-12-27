@@ -25,4 +25,4 @@ KPI_summary = pd.DataFrame({
     ]
 })
 KPI_summary.to_csv("Analysis.summary.csv", index=False)
-dept_cost_share.to_csv("pr_department_cost_percentage.csv", index=False)
+dept_cost_share.to_csv("pr_department_cost_percentage.csv")
