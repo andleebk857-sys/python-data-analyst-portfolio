@@ -28,9 +28,7 @@ The goal is to understand salary distribution, department-wise averages, and ide
    
 # Visualizations
 
-![chart](Analysis/Avg salary pr department.png)
-![chart](Analysis/chart_Total_salary_pr_department.png)
-![chart](Analysis/chart_number_of_employees_pr_department.png)
+![chart](Analysis/Avg_salary_pr_department.png)
 
 
 # Key Insights
