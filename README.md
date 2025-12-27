@@ -1,7 +1,7 @@
 ## Employee Salary Analysis (Python)
 
 # Project Overview
-This project analyzes employee salary data using Python.  
+This project clean and analyzes employee salary data using Python.  
 The goal is to understand salary distribution, department-wise averages, and identify meaningful insights for business decision-making.
 
 # Dataset
