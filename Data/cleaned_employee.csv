@@ -6,7 +6,7 @@ emp_id,name,department,salary
 5,Usman Ali,Finance,59812.93
 6,Fatima Noor,Sales,72015.51
 7,Hamza Shah,HR,69022.68
-8,Mariam Iqbal,Human_Resource,71513.57
+8,Mariam Iqbal,HR,71513.57
 9,Bilal Ahmed,Sales,87012.44
 10,Zain Abbas,IT,74512.23
 11,Hira Khan,IT,110944.14
@@ -17,7 +17,7 @@ emp_id,name,department,salary
 16,Laiba Riaz,HR,68900.23
 17,Shahzaib Ali,IT,110944.14
 18,Anum Tariq,Finance,69999.99
-19,Fahad Mehmood,Human_Resource,80000.12
+19,Fahad Mehmood,HR,80000.12
 20,Mehwish Anwar,Sales,70049.97
 21,Asad Khan,IT,71000.65
 22,Sidra Yousaf,Finance,45000.0
@@ -25,7 +25,7 @@ emp_id,name,department,salary
 24,Huzaifa Ahmed,IT,300000.0
 25,Nida Ali,Sales,68000.23
 26,Arslan Javed,HR,68961.46
-27,Saira Butt,Human_Resource,75500.12
+27,Saira Butt,HR,75500.12
 28,Kamran Akhtar,Finance,78812.12
 29,Rabia Noor,IT,69000.0
 30,Mohsin Raza,Sales,400000.0
@@ -35,14 +35,14 @@ emp_id,name,department,salary
 34,Kiran Aslam,HR,68961.46
 35,Waqas Ahmed,IT,69000.0
 36,Minal Khan,Finance,73225.72
-37,Saqlain Abbas,Human_Resource,70000.0
+37,Saqlain Abbas,HR,70000.0
 38,Faizan Malik,Sales,65000.0
 39,Iqra Naseem,IT,70777.76
 40,Adnan Yousaf,Finance,72000.0
 41,Areeba Zahid,HR,167808.11
 42,Talha Mehmood,IT,68000.0
 43,Neha Imran,HR,68961.46
-44,Junaid Khan,Human_Resource,69500.0
+44,Junaid Khan,HR,69500.0
 45,Maha Riaz,Sales,71000.0
 46,Danish Ali,IT,74512.23
 47,Abdul Rehman,IT,74000.0
