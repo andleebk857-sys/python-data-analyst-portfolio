@@ -25,14 +25,14 @@ The goal is to understand salary distribution, department-wise averages, and ide
 * Salary distribution analysis
 * Department-wise salary comparison
 * High / Low salary categorization
-
+   
 # Visualizations
 ![Average Salary per Department](Analysis/Avg_salary_Department.png)
 
 # Key Insights
 * Sales department has the highest average salary
 * Finance shows the lowest salary budget
-    ## KPI Analysis (Python)
+    ##  KPI Analysis (Python)
 
 This project includes KPI-based analysis to support management decision-making.
 
