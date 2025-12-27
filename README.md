@@ -32,3 +32,13 @@ The goal is to understand salary distribution, department-wise averages, and ide
 # Key Insights
 * Sales department has the highest average salary
 * Finance shows the lowest salary budget
+    ## KPI Analysis (Python)
+
+This project includes KPI-based analysis to support management decision-making.
+
+# Key Insights
+* Total payroll helps monitor overall company cost.
+* High salary percentage indicates salary imbalance risk.
+* Department cost share highlights budget-heavy departments.
+
+These KPIs can help management optimize payroll and workforce planning.
