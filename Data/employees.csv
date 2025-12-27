@@ -1,0 +1,51 @@
+emp_id,name,department,salary
+1,Ali Raza,IT,85664.835710
+2,Ayesha Khan,Finanace,76451.461049
+3,Ahmed Hassan,HR,90232.112573
+4,Sana Malik, I,66832.489598
+5,Usman Ali,finance ,59812.932140
+6,Fatima Noor,Sales,72015.514240
+7,Hamza Shah,Hr,69022.675438
+8,Mariam Iqbal,Human Resource,71513.572340
+9,Bilal Ahmed,Sales ,87012.439120
+10,Zain Abbas,I T,74512.231244
+11,Hira Khan,IT,NaN
+12,Saad Qureshi,Finance,78812.123450
+13,Adeel Farooq,HR,430000
+14,Noor Fatima,Sales,65234.112345
+15,Imran Siddiqui,finance ,72000.123456
+16,Laiba Riaz,Hr,68900.234567
+17,Shahzaib Ali,IT,NaN
+18,Anum Tariq,Finanace,69999.987654
+19,Fahad Mehmood,Human Resource,80000.123456
+20,Mehwish Anwar,Sales,NaN
+21,Asad Khan, I,71000.654321
+22,Sidra Yousaf,finance ,45000
+23,Umar Khalid,HR,73000.345678
+24,Huzaifa Ahmed,IT,300000
+25,Nida Ali,Sales,68000.234567
+26,Arslan Javed,Hr,NaN
+27,Saira Butt,Human Resource,75500.123456
+28,Kamran Akhtar,Finance,NaN
+29,Rabia Noor,IT,69000
+30,Mohsin Raza,Sales ,400000
+31,Anas Sheikh, I,74500.123456
+32,Sumaira Khalid,finance ,71500.234567
+33,Farhan Ali,HR,78000
+34,Kiran Aslam,Hr,NaN
+35,Waqas Ahmed,IT,69000
+36,Minal Khan,Finanace,NaN
+37,Saqlain Abbas,Human Resource,70000
+38,Faizan Malik,Sales,65000
+39,Iqra Naseem, I,NaN
+40,Adnan Yousaf,finance ,72000
+41,Areeba Zahid,HR,NaN
+42,Talha Mehmood,IT,68000
+43,Neha Imran,Hr,NaN
+44,Junaid Khan,Human Resource,69500
+45,Maha Riaz,Sales ,71000
+46,Danish Ali,I T,NaN
+47,Abdul Rehman,IT,74000
+48,Amna Saleem,Finance,NaN
+49,Shoaib Akram,HR,NaN
+50,Hassan Rauf,Sales,80000
