@@ -22,6 +22,11 @@ def correct(names):
     else:
         return None
 df["department"] = df["department"].apply(correct)
+df["department"] = df["department"].replace("Human_Resource", "HR")
+# outlires
+outliers = df[(df["salary"]<10000) | (df["salary"]>300000)]
+print("Potential salary Outlires:")
+print(outliers)
 df.to_csv("cleaned_employee.csv", index=False)
 print(df.isnull().sum())
 print(df["department"].value_counts())
