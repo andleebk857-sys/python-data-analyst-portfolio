@@ -28,7 +28,7 @@ The goal is to understand salary distribution, department-wise averages, and ide
    
 # Visualizations
 
-![chart](Analysis/chart number of employees pr department.png)
+![chart](Analysis/chart_number_of_employees_pr_department.png)
 
 # Key Insights
 * Sales department has the highest average salary
