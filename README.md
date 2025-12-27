@@ -47,7 +47,7 @@ These KPIs can help management optimize payroll and workforce planning.
 ## Executive Dashboard Insights
 
 # 1. Salary Cost Concentration
-The Sales department has the highest total salary cost, indicating critical technical dependency.
+The HR department has the highest total salary cost, indicating critical technical dependency.
 
 # 2. Salary Imbalance
 Average salaries in Sales are significantly higher than Finance,  suggesting potential imbalance.
@@ -56,5 +56,5 @@ Average salaries in Sales are significantly higher than Finance,  suggesting pot
 HR has the highest number of employees, which may indicate operational workload concentration.
 
 # 4. Recommendation
-Management should review Sales compensation and staffing to avoid burnout and imbalance.
+Management should review HR compensation and staffing to avoid burnout and imbalance.
 
