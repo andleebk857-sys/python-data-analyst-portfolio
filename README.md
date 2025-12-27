@@ -30,6 +30,7 @@ The goal is to understand salary distribution, department-wise averages, and ide
 
 ![chart](Analysis/chart_Avg_salary_Department.png)
 ![chart](Analysis/chart_Total_salary_pr_department.png)
+![chart](Analysis/chart_number_of_employees_pr_department.png)
 
 
 # Key Insights
